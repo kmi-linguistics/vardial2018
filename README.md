@@ -5,10 +5,15 @@ This task was aimed at identifying 5 closely-related languages of Indo-Aryan lan
 
 ## Dataset Format
 The directory 'dataset' contains 3 files - the ones used for training, development / validation and testing in the shared task. Each file contains data in one sentence one line format with the language ID separated by a TAB. The langauge IDs are the ISO codes of the respective languages and should be read as below -
-AWa = Awadhi
+
+AWA = Awadhi
+
 BRA = Braj
+
 BHO = Bhojpuri
+
 MAG = Magahi
+
 HIN = Hindi
 
 ## [The VarDial Task Page](http://alt.qcri.org/vardial2018/index.php?id=campaign)
